@@ -1,16 +1,16 @@
 /*-----------------------------------------------------------------------------------
 
-Theme Name: Gerold - Personal Portfolio HTML5 Template
-Theme URI: https://themejunction.net/html/gerold/demo/
+Theme Name: Passorpass.com
+Theme URI: 
 Author: Theme-Junction
-Author URI: https://themeforest.net/user/theme-junction
-Description: Gerold - Personal Portfolio HTML5 Template
+Author URI: adesokanadedeji10@gmail.com
+Description: Passorpass.com
 
 -----------------------------------------------------------------------------------
 /************ TABLE OF CONTENTS ***************
 
   Theme Default CSS
-	Preloader
+	
 	Headers
 	Hero Section
 	Services Section
@@ -57,15 +57,15 @@ Description: Gerold - Personal Portfolio HTML5 Template
 	--tj-black3: #5c6266;
 	--tj-black4: #585859;
 	--tj-h3-black: #0b0410;
-	--tj-heading-primary: #102039;
+	--tj-heading-primary: #2400ff;
 	--tj-heading-secondary: #ea1826;
-	--tj-theme-primary: #8750f7;
+	--tj-theme-primary: #5372FF;
 	--tj-theme-primary-1: #2400ff;
 	--tj-theme-primary-2: #9b8dff;
 	--tj-theme-primary-3: #4654f9;
-	--tj-theme-h3-primary-1: #814cec;
+	--tj-theme-h3-primary-1: #5372FF;
 	--tj-theme-h4-primary-1: #240F31;
-	--tj-theme-secondary: #2a1454;
+	--tj-theme-secondary: #5372FF;
 	--tj-theme-accent-1: #0f0715;
 	--tj-theme-accent-2: #140c1c;
 	--tj-grey-1: #747779;
@@ -826,8 +826,9 @@ body.loaded {
 }
 
 .tj-header-area .logo-box {
-	max-width: 60px;
-	width: 100%;
+	max-width: 100px;
+	width: 100px;
+	height: 50px;
 	margin-right: 35px;
 }
 .tj-header-area .logo-box a {
@@ -2328,6 +2329,7 @@ body.loaded {
 .testimonials-widget .testimonial-item .logo-box {
 	max-width: 100px;
 	width: 100%;
+	height:50px;
 }
 .testimonials-widget .testimonial-item .icon-box {
 	margin-bottom: 25px;

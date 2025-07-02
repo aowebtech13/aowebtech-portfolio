@@ -1,10 +1,10 @@
 /*-----------------------------------------------------------------------------------
 
-Theme Name: Gerold - Personal Portfolio HTML5 Template
-Theme URI: https://themejunction.net/html/gerold/demo/
+Theme Name: Passorpass.com
+Theme URI: 
 Author: Theme-Junction
-Author URI: https://themeforest.net/user/theme-junction
-Description: Gerold - Personal Portfolio HTML5 Template
+Author URI: adesokanadedeji10@gmail.com
+Description: Passorpass.com
 
 -----------------------------------------------------------------------------------
 
